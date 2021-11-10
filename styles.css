@@ -1,0 +1,32 @@
+#intro {
+  color: cornflowerblue;
+}
+
+.street {
+  background: rgba(0, 0, 0, 0.5);
+  color: rgb(120, 203, 245);
+}
+
+.park {
+  background: rgba(0, 0, 0, 0.5);
+  color: rgb(113, 247, 120);
+}
+
+body {
+  margin: 0px;
+}
+
+h1 {
+  color: #fff;
+  background: #56e;
+  padding: 20px;
+  border: 3px solid #111;
+  margin: 20px;
+}
+h2 {
+  color: #fff;
+  background: #56e;
+  padding: 20px;
+  border: 3px solid #111;
+  margin: 20px;
+}
